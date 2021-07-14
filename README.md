@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alejandro Lopez</h1>
 <h3 align="center">I'm a 16 years old backend developer from Venezuela who loves learning new technologies.</h3>
 
-<p align="left"> <a href="https://twitter.com/@RsSpaghetti" target="blank"><img src="https://img.shields.io/twitter/follow/@rs_spaghetti?logo=twitter&style=for-the-badge" alt="@rs_spaghetti" /></a> </p>
-
 - 🔭 I’m currently working on [Tsukiapp](https://github.com/orgs/Tsukiapp/)
 
 - 🌱 I’m currently learning **Chinese simplified**
