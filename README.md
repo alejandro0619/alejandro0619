@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alejandro Lopez</h1>
 <h3 align="center">I'm a 16 years old backend developer from Venezuela who loves learning new technologies.
-  I've learning programming for 2 years and I feel very comfy trying new things outta' my confort zone. 
+  I've been learning programming for 2 years and I feel very comfy trying new things outta' my comfort zone. 
 </h3>
 
 - 🔭 I’m currently working on [Tsukiapp](https://github.com/orgs/Tsukiapp/)
