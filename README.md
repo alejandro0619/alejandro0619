@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning: **Chinese simplified, Math and algorithms**
 - 👨‍💻 All of my projects are available at [https://github.com/alejandro0619](https://github.com/alejandro0619)
 - 📝 I regularly write articles on [https://dev.to/spaghetti_rs](https://dev.to/spaghetti_rs)
-- 💬 Ask me about **Typescript, Javascript, Nodejs, mongoDB, heroku.**
+- 💬 Ask me about **Typescript, Javascript, Nodejs, Deno mongoDB, heroku.**
 - 📫 How to reach me **alejandrolpz0619@gmail.com**
 
 ----
