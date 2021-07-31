@@ -3,7 +3,7 @@
 <h4 align="center ">I'm a 16 years old backend developer from Venezuela who loves learning new technologies. I've been learning programming for 2 years and I feel very comfy trying new things outta' my comfort zone. <h4>
 
 ----
-- 🔭 I’m currently working on 
+- 💻 Some of my projects: 
   -  🌑 [Tsukiapp](https://github.com/orgs/Tsukiapp/) A simple yet powerful web application to track your favorite animes and mangas.
   -  🧨 [Kanzen](https://github.com/alejandro0619/Kanzen-CLI) A minimalist CLI application to download books direct from libgen.
   -  💸 [Fixer-Wrapper](https://github.com/alejandro0619/Fixer-wrapper) Useful [fixer](https://fixer.io) Javascript / Typescript wrapper.
