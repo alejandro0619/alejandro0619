@@ -4,8 +4,10 @@
 
 ----
 - 💻 Some of my projects: 
-  -  🌑 [Tsukiapp](https://github.com/orgs/Tsukiapp/) A simple yet powerful web application to track your favorite animes and mangas.
-  -  🧨 [Kanzen](https://github.com/alejandro0619/Kanzen-CLI) A minimalist CLI application to download books direct from libgen.
+  -  🌑 [Tsukiapp](https://github.com/orgs/Tsukiapp/) A simple yet powerful web application to track your favorite animes and mangas created in Typescript.
+       - 🎇[MAL-Scrapper](https://github.com/orgs/Tsukiapp/MAL-Scrapper) It's [MyAnimeList.net](https://myanimelist.net/) scrapper created for Tsukiapp.
+       - 💻 [Tsuki API](https://github.com/Tsukiapp/Tsuki-API) It's an API to retrieve information about anime, mangas and new about these topics.
+  -  🧨 [Kanzen](https://github.com/alejandro0619/Kanzen-CLI) A minimalist CLI application to download books direct from libgen created in Typescript.
   -  💸 [Fixer-Wrapper](https://github.com/alejandro0619/Fixer-wrapper) Useful [fixer](https://fixer.io) Javascript / Typescript wrapper.
   -  🍣 [Maki](https://github.com/alejandro0619/Maki) A password generator and manager CLI application created in Typescript.
   
