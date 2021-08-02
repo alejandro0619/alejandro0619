@@ -26,7 +26,7 @@ console.log(Me.info);
 
 ----
 - 💻 Some of my projects: 
-  -  🌑 [Tsukiapp](https://github.com/orgs/Tsukiapp/) Searching and tracking your favorite animes was never so easy! 🌌
+  -  🌑 [Tsukiapp](https://github.com/orgs/Tsukiapp/) Searching and tracking your favorite animes was never so easy!
        - 🎇[MAL-Scrapper](https://github.com/orgs/Tsukiapp/MAL-Scrapper) It's [MyAnimeList.net](https://myanimelist.net/) scrapper created for Tsukiapp.
        - 💻 [Tsuki API](https://github.com/Tsukiapp/Tsuki-API) It's an API to retrieve information about anime, mangas and new about these topics.
   -  🧨 [Kanzen](https://github.com/alejandro0619/Kanzen-CLI) A minimalist CLI application to download books direct from libgen created in Typescript.
