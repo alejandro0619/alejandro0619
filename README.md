@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alejandro Lopez</h1>
-<h3 > 💫 About me 💫 </h3>
+<h3 align="center"> 💫 About me 💫 </h3>
 
 ```typescript
   class AboutMe {
