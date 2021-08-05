@@ -12,7 +12,7 @@
       this.likes = likes;
     }
     get info(): string {
-      return `I'm ${this.age} Software engineering student and Backend developer from venezuela ${this.likes}`
+      return `I'm ${this.age} Software engineering student and Backend developer from venezuela ${this.likes}`;
     }
 }
 const Me = new AboutMe({
@@ -36,7 +36,13 @@ console.log(Me.info);
 - 👨‍💻 All of my projects are available at [https://github.com/alejandro0619.](https://github.com/alejandro0619)
 - 📝 I regularly write articles on [https://dev.to/spaghetti_rs.](https://dev.to/spaghetti_rs)
 - 💬 Ask me about Typescript, Javascript, Nodejs, Deno, mongoDB, heroku.
-- 📫 How to reach me alejandrolpz0619@gmail.com.
+ 
+<h3 align="left"> Reach me </h3>
+
+    📧  Gmail: alejandrolpz0619@gmail.com
+    🐤 Twitter: @Rs_Spaghetti
+    📱  telegram: @spaghetti_ts
+    
 ----
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejandro0619&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
