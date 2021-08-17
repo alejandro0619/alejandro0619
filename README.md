@@ -16,7 +16,7 @@
     }
 }
 const Me = new AboutMe({
-  age: 16,
+  age: 17,
   likes: `who loves learning new technologies. I've been learning programming for 2 years 
   and I feel very comfy trying new things outta' my comfort zone`
 });
