@@ -33,6 +33,10 @@ console.log(Me.info);
   -  🍣 [Maki](https://github.com/alejandro0619/Maki) A password generator and manager CLI application created in Typescript.
   
 - 🌱 I’m currently learning: Rust, Python Math and algorithms and mastering my knowledge of typescript / javascript.
+- 🌌 Programming languages that I use in my projects:
+   - 🐱‍👤Javascript/Typescript (Node and Deno)
+   - 🐍Python
+   - 🦀Rust
 - 👨‍💻 All of my projects are available at [https://github.com/alejandro0619.](https://github.com/alejandro0619)
 - 📝 I regularly write articles on [https://dev.to/spaghetti_rs.](https://dev.to/spaghetti_rs)
 - 💬 Ask me about Typescript, Javascript, Nodejs, Deno, mongoDB, heroku.
