@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🐱‍👤, I'm Alejandro Lopez< or just call me spaghetti/h1>
+<h1 align="center">Hi 🐱‍👤, I'm Alejandro Lopez or just call me spaghetti </h1>
 <h3 align="center"> 💫 About me 💫 </h3>
 
 ```typescript
