@@ -32,6 +32,10 @@ console.log(Me.info);
   -  💸 [Fixer-Wrapper](https://github.com/alejandro0619/Fixer-wrapper) Useful [fixer](https://fixer.io) Javascript / Typescript wrapper.
   -  🍣 [Maki](https://github.com/alejandro0619/Maki) A password generator and manager CLI application created in Typescript.
   
+- 🐱‍💻I'm currenty working on:
+  - 🌟not-ytdl: Project created to download videos from Youtube without using ytdl tool (WIP)
+
+
 - 🌱 I’m currently learning: Rust, Python Math and algorithms and mastering my knowledge of typescript / javascript.
 - 🌌 Programming languages:
    - 🐱‍👤Javascript/Typescript (Node and Deno)
