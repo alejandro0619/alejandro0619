@@ -43,7 +43,7 @@ console.log(Me.info);
    - 🦀Rust - currently learning. 
 - 👨‍💻 All of my projects are available at [https://github.com/alejandro0619.](https://github.com/alejandro0619)
 - 📝 I regularly write articles on [https://dev.to/spaghetti_rs.](https://dev.to/spaghetti_rs)
-- 💬 Ask me about Typescript, Javascript, Nodejs, Deno, mongoDB, heroku.
+- 💬 Ask me about Typescript, Javascript, Nodejs, Deno, mongoDB, heroku and python 
  
 <h3 align="left"> Reach me </h3>
 
