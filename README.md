@@ -47,7 +47,7 @@ console.log(Me.info);
  
 <h3 align="left"> Reach me </h3>
 
-    📧  Gmail: alejandrolpz0619@gmail.com
+    📧  Gmail: alejandrolpz0619@gmail.com / spaghetticodedev@gmail.com
     🐤 Twitter: @Rs_Spaghetti
     📱  telegram: @spaghetti_ts
     
