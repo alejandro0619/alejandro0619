@@ -30,7 +30,7 @@ console.log(Me.info);
        - 💻 [Tsuki API](https://github.com/Tsukiapp/Tsuki-API) It's an API to retrieve information about anime, mangas and new about these topics.
   -  🧨 [Kanzen](https://github.com/alejandro0619/Kanzen-CLI) A minimalist CLI application to download books direct from libgen created in Typescript.
   -  💸 [Fixer-Wrapper](https://github.com/alejandro0619/Fixer-wrapper) Useful [fixer](https://fixer.io) Typescript wrapper.
-  -  🍣 [Maki](https://github.com/alejandro0619/Maki) A password generator and manager CLI application created in Typescript.
+  -  🍣 [Maki](https://github.com/alejandro0619/Maki) A password generator and manager CLI application created in Typescript (WIP)
   
 - 🐱‍💻I'm currenty working on:
   - 🌟not-ytdl: Project created to download videos from Youtube without using ytdl tool (WIP)
