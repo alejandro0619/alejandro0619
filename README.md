@@ -49,7 +49,7 @@ console.log(Me.info);
 
     📧  Gmail: alejandrolpz0619@gmail.com / spaghetticodedev@gmail.com
     🐤 Twitter: @Rs_Spaghetti
-    📱  telegram: @spaghettirs
+    📱  telegram: @exquisitecorpsee
     
 ----
 
