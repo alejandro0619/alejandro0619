@@ -36,10 +36,9 @@ console.log(Me.info);
   - 🌟[not-ytdl](https://github.com/not-ytdl): Project created to download videos from Youtube without using ytdl tool (WIP)
 
 
-- 🌱 I’m currently learning: Rust, Python Math, algorithms and mastering my knowledge of typescript / javascript.
+- 🌱 I’m currently learning: Rust, C++,  Math, algorithms and mastering my knowledge of typescript / javascript.
 - 🌌 Programming languages:
    - 🐱‍👤Javascript/Typescript (Node)
-   - 🐍Python
    - 🦀Rust - currently learning. 
 - 👨‍💻 All of my projects are available at [https://github.com/alejandro0619.](https://github.com/alejandro0619)
 - 📝 I regularly write articles on [https://dev.to/spaghetti_rs.](https://dev.to/spaghetti_rs)
