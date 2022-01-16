@@ -20,7 +20,7 @@ const Me = new AboutMe({
   likes: `who loves learning new technologies. I've been learning programming for 3 years 
   and I feel very comfy trying new things outta' my comfort zone`
 });
-console.log(Me.info);
+console.log(Me.info());
 ```
 
 ----
@@ -42,7 +42,7 @@ console.log(Me.info);
    - 🦀Rust - currently learning. 
 - 👨‍💻 All of my projects are available at [https://github.com/alejandro0619.](https://github.com/alejandro0619)
 - 📝 I regularly write articles on [https://dev.to/spaghetti_rs.](https://dev.to/spaghetti_rs)
-- 💬 Ask me about Typescript, Javascript, Nodejs, Deno, mongoDB, heroku and python 
+- 💬 Ask me about Typescript, Javascript, Nodejs, Deno, mongoDB, heroku
  
 <h3 align="left"> Reach me </h3>
 
