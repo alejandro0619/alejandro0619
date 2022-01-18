@@ -1,4 +1,4 @@
-<h1 align="center">Heyy I'm Alejandro López. </h1>
+<h1 align="center">Hey I'm Alejandro López. </h1>
 <h3 align="center"> 💫 About me 💫 </h3>
 
 ```typescript
@@ -18,7 +18,7 @@
 const Me = new AboutMe({
   age: 17,
   likes: `who loves learning new technologies. I've been learning programming for 3 years 
-  and I feel very comfy trying new things outta' my comfort zone`
+  and I feel very comfy trying new things out of my comfort zone`
 });
 console.log(Me.info());
 ```
