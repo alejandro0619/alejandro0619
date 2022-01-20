@@ -30,10 +30,10 @@ console.log(Me.info());
        - 💻 [Tsuki API](https://github.com/Tsukiapp/Tsuki-API) It's an API to retrieve information about anime, mangas and new about these topics.
   -  🧨 [Kanzen](https://github.com/alejandro0619/Kanzen-CLI) A minimalist CLI application to download books direct from libgen created in Typescript.
   -  💸 [Fixer-Wrapper](https://github.com/alejandro0619/Fixer-wrapper) Useful [fixer](https://fixer.io) Typescript wrapper.
-  -  🍣 [Maki](https://github.com/alejandro0619/Maki) A password generator and manager CLI application created in Typescript. (WIP)
+  -  🍣 [Maki](https://github.com/alejandro0619/Maki) A password generator and manager CLI application created in Typescript (WIP).
   
 - 🐱‍💻I'm currenty working on:
-  - 🌟[not-ytdl](https://github.com/not-ytdl): Project created to download videos from Youtube without using ytdl tool (WIP)
+  - 🌟[not-ytdl](https://github.com/not-ytdl): Project created to download videos from Youtube without using ytdl tool (WIP).
 
 
 - 🌱 I’m currently learning: Rust, C++,  Math, algorithms and mastering my knowledge of typescript / javascript.
@@ -42,9 +42,9 @@ console.log(Me.info());
    - 🦀Rust - currently learning. 
 - 👨‍💻 All of my projects are available at [https://github.com/alejandro0619.](https://github.com/alejandro0619)
 - 📝 I regularly write articles on [https://dev.to/spaghetti_rs.](https://dev.to/spaghetti_rs)
-- 💬 Ask me about Typescript, Javascript, Nodejs, Deno, mongoDB, heroku
+- 💬 Ask me about Typescript, Javascript, Nodejs, Deno, mongoDB, heroku.
  
-<h3 align="left"> Reach me </h3>
+<h3 align="left"> Reach me. </h3>
 
     📧  Gmail: alejandrolpz0619@gmail.com / spaghetticodedev@gmail.com
     🐤 Twitter: @Rs_Spaghetti
