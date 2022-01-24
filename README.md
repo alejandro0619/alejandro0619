@@ -1,26 +1,34 @@
 <h1 align="center">Hey I'm Alejandro López </h1>
 <h3 align="center"> 💫 About me 💫 </h3>
 
-```typescript
-  class AboutMe  {
-    private age: number;
-    private likes: string;
-
-    constructor(params:{age: number, likes: string}){
-      const {age, likes } =  params;
-      this.age = age;
-      this.likes = likes;
-    }
-    get info(): string {
-      return `I'm ${this.age} Software engineering student and Backend developer from venezuela ${this.likes}`;
-    }
+```Rust
+struct Me {
+  age: i32,
+  location: String,
+  likes: String,
+  programming_languages: [String; 2]
+ }
+ impl Me {
+  fn new(age: i32, location: String, likes: String, programming_languages: [String; 2]) -> Me {
+    Me {
+      age,
+      location,
+      likes,
+      programming_languages
+  }
 }
-const Me = new AboutMe({
-  age: 17,
-  likes: `who loves learning new technologies. I've been learning programming for 3 years 
-  and I feel very comfy trying new things out of my comfort zone`
-});
-console.log(Me.info());
+  fn display(&self) {
+    println!("I'm Alejandro López (aka spaghetti) a {}
+      Bachelor of Science in Computer Engineering Student from {}, I like to {} in {}, {}", 
+      self.age, self.location, self.likes, self.programming_languages[0], self.programming_languages[1]
+    );
+  }
+}
+pub fn start(){
+  let me =  Me::new(17, String::from("Venezuela"), String::from("Eat french fries and code"),
+  ["Typescript".to_string(), "Rust".to_string()]); 
+  me.display();
+ }
 ```
 
 ----
