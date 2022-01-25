@@ -9,7 +9,7 @@ struct Me {
   programming_languages: [String; 2]
  }
  impl Me {
-  fn new(age: i32, location: String, likes: String, programming_languages: [String; 2]) -> Me {
+  fn from(age: i32, location: String, likes: String, programming_languages: [String; 2]) -> Me {
     Me {
       age,
       location,
@@ -25,7 +25,7 @@ struct Me {
   }
 }
 pub fn start(){
-  let me =  Me::new(17, String::from("Venezuela"), String::from("Eat french fries and code"),
+  let me =  Me::from(17, String::from("Venezuela"), String::from("Eat french fries and code"),
   ["Typescript".to_string(), "Rust".to_string()]); 
   me.display();
  }
