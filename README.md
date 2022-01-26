@@ -18,13 +18,13 @@ struct Me {
   }
 }
   fn display(&self) {
-    println!("I'm Alejandro López (aka spaghetti) a {}
+    println!("I'm Alejandro López (aka spaghetti) a {} years old
       Bachelor of Science in Computer Engineering Student from {}, I like to {} in {}, {}", 
       self.age, self.location, self.likes, self.programming_languages[0], self.programming_languages[1]
     );
   }
 }
-pub fn start(){
+fn main(){
   let me =  Me::from(17, String::from("Venezuela"), String::from("Eat french fries and code"),
   ["Typescript".to_string(), "Rust".to_string()]); 
   me.display();
