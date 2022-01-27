@@ -52,27 +52,23 @@ fn main(){
 - 👨‍💻 All of my projects are available at [https://github.com/alejandro0619.](https://github.com/alejandro0619)
 - 💬 Ask me about Typescript, Javascript, Nodejs, Deno, mongoDB, heroku, Rust.
  
-<h3 align="left"> Reach me. </h3>
+<h3 align="center"> Reach me. </h3>
 
-<div>
+
+<p align="center">
 <a href="spaghetticodedev@gmail.com">
       <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-</div>     
-  </br> 
-     
-<div>
+
 <a href="https://t.me/Spaghettispaghetto">
       <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
-</div>
-  </br>  
-  
-<div>
+ 
 <a href="https://dev.to/spaghetti_rs">
       <img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
 </a>
-</div>  
+
+</p> 
 
 ----
 <div>
