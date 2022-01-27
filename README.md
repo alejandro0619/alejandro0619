@@ -1,6 +1,7 @@
 <h1 align="center">Hey I'm Alejandro López </h1>
 <h3 align="center"> 💫 About me 💫 </h3>
 
+
 ```Rust
 struct Me {
   age: i32,
@@ -59,10 +60,10 @@ fn main(){
     📱  telegram: @spaghettispaghetto
     
 ----
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=alejandro0619&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=false" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro0619&langs_count=4&hide_title=false&hide_border=true" />
-</a>
+<div>
+<img align="center" src="https://www.codewars.com/users/alejandro0619/badges/large"/> 
+  
+----
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=alejandro0619&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=false" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro0619&langs_count=4&hide_title=false&hide_border=true" />
+</div>
