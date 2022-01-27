@@ -50,20 +50,40 @@ fn main(){
    - 🐱‍👤Javascript/Typescript (Node)
    - 🦀Rust - currently learning. 
 - 👨‍💻 All of my projects are available at [https://github.com/alejandro0619.](https://github.com/alejandro0619)
-- 📝 I regularly write articles on [https://dev.to/spaghetti_rs.](https://dev.to/spaghetti_rs)
 - 💬 Ask me about Typescript, Javascript, Nodejs, Deno, mongoDB, heroku, Rust.
  
 <h3 align="left"> Reach me. </h3>
 
-    📧  Gmail: alejandrolpz0619@gmail.com / spaghetticodedev@gmail.com
-    🐤 Twitter: @Rs_Spaghetti
-    📱  telegram: @spaghettispaghetto
-    
+<div>
+<a href="spaghetticodedev@gmail.com">
+      <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+</div>     
+  </br> 
+     
+<div>
+<a href="https://t.me/Spaghettispaghetto">
+      <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+</div>
+  </br>  
+  
+<div>
+<a href="https://dev.to/spaghetti_rs">
+      <img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
+</a>
+</div>  
+
 ----
 <div>
-<img align="center" src="https://www.codewars.com/users/alejandro0619/badges/large"/> 
+<h3 align="center">🚀 CodeWars</h3>
+<p align="center"><img align="center" src="https://www.codewars.com/users/alejandro0619/badges/large"/>  </p>
   
 ----
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=alejandro0619&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=false" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro0619&langs_count=4&hide_title=false&hide_border=true" />
+<h3 align="center"> ❤ My stats </h3>
+  
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=alejandro0619&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro0619&langs_count=3&hide_title=false&hide_border=true" />
+</p>
 </div>
