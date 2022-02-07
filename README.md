@@ -1,6 +1,6 @@
 <h1 align="center">
   Hey I'm Alejandro López. 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"
+  <img src="https://github.com/alejandro0619/alejandro0619/blob/main/ezgif.com-gif-maker.gif" width="28"
 </h1>
 <h3 align="center"> 💫 About me 💫 </h3>
 <p align="center">
