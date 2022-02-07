@@ -1,7 +1,14 @@
-<h1 align="center">Hey I'm Alejandro López. </h1>
+<h1 align="center">
+  Hey I'm Alejandro López. 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"
+</h1>
 <h3 align="center"> 💫 About me 💫 </h3>
-
-
+<p align="center">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alejandro0619&theme=nord_bright"/>
+<p>
+  
+----
+  
 ```Rust
 struct Me {
   age: i32,
@@ -76,10 +83,17 @@ fn main(){
 <p align="center"><img align="center" src="https://www.codewars.com/users/alejandro0619/badges/large"/>  </p>
   
 ----
-<h3 align="center"> ❤ My stats </h3>
+<h3 align="center"> 🐱‍🏍 Github streak </h3>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=alejandro0619&theme=default"/> </p> </br>
   
+<h3 align="center"> ❤ My stats </h3>
 <p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=alejandro0619&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=false" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro0619&langs_count=3&hide_title=false&hide_border=true" />
+<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=alejandro0619&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandro0619&show_icons=true&locale=en&layout=compact&hide_border=true" />
+</p>
+ 
+<h3 align="center">🐱‍💻 Activity graph </h3>
+<p align="center"> 
+<img src="https://activity-graph.herokuapp.com/graph?username=alejandro0619&theme=github" />
 </p>
 </div>
