@@ -1,14 +1,15 @@
 <h1 align="center">
   Hey I'm Alejandro López. 
-  <img src="https://github.com/alejandro0619/alejandro0619/blob/main/ezgif.com-gif-maker.gif" width="28"
+  <img src=" src="https://media.giphy.com/media/qSa3AkBFn9D3Za7CmW/giphy.gif" width="28"
 </h1>
+
 <h3 align="center"> 💫 About me 💫 </h3>
 <p align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alejandro0619&theme=nord_bright"/>
 <p>
   
 ----
-  
+ 
 ```Rust
 struct Me {
   age: i32,
@@ -64,24 +65,23 @@ fn main(){
 
 <p align="center">
 <a href="spaghetticodedev@gmail.com">
-      <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://t.me/Spaghettispaghetto">
-      <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+<img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
  
 <a href="https://dev.to/spaghetti_rs">
-      <img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
+<img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
 </a>
-
 </p> 
 
 ----
 <div>
 <h3 align="center">🚀 CodeWars</h3>
 <p align="center"><img align="center" src="https://www.codewars.com/users/alejandro0619/badges/large"/>  </p>
-  
+
 ----
 <h3 align="center"> 🐱‍🏍 Github streak </h3>
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=alejandro0619&theme=default"/> </p> </br>
