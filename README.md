@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey I'm Alejandro López. 
+  Hey I'm Alejandro López
   <img src="https://github.com/alejandro0619/alejandro0619/blob/main/ezgif.com-gif-maker.gif" width="28"
 </h1>
 
