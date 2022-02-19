@@ -51,6 +51,7 @@ fn main(){
   
 - 🐱‍💻I'm currenty working on:
   - 🌟[not-ytdl](https://github.com/not-ytdl): Project created to download videos from Youtube without using ytdl tool (WIP).
+  - 🦀 [ytdl-rs](https://github.com/alejandro0619/ytdl-rs) ytdl CLI alternative made in rust
 
 
 - 🌱 I’m currently learning: Rust, C++,  Math, algorithms and mastering my knowledge of typescript / javascript.
