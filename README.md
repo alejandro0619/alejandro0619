@@ -50,8 +50,8 @@ fn main(){
   -  🍣 [Maki](https://github.com/alejandro0619/Maki) A password generator and manager CLI application created in Typescript (WIP).
   
 - 🐱‍💻I'm currenty working on:
-  - 🌟[not-ytdl](https://github.com/not-ytdl): Project created to download videos from Youtube without using ytdl tool (WIP).
-  - 🦀 [ytdl-rs](https://github.com/alejandro0619/ytdl-rs) ytdl CLI alternative made in rust
+  - 🌟[not-ytdl](https://github.com/not-ytdl): Project created to download videos from Youtube without using ytdl tool.
+  - 🦀[ytdl-rs](https://github.com/alejandro0619/ytdl-rs) ytdl CLI alternative made in rust (WIP)
 
 
 - 🌱 I’m currently learning: Rust, C++,  Math, algorithms and mastering my knowledge of typescript / javascript.
@@ -59,7 +59,7 @@ fn main(){
    - 🐱‍👤Javascript/Typescript (Node)
    - 🦀Rust - currently learning. 
 - 👨‍💻 All of my projects are available at [https://github.com/alejandro0619.](https://github.com/alejandro0619)
-- 💬 Ask me about Typescript, Javascript, Nodejs, Deno, mongoDB, heroku, Rust.
+- 💬 Ask me about Typescript, Javascript, Nodejs, Deno, mongoDB, Rust.
  
 <h3 align="center"> Reach me. </h3>
 
@@ -93,8 +93,5 @@ fn main(){
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandro0619&show_icons=true&locale=en&layout=compact&hide_border=true" />
 </p>
  
-<h3 align="center">🐱‍💻 Activity graph </h3>
-<p align="center"> 
-<img src="https://activity-graph.herokuapp.com/graph?username=alejandro0619&theme=github" />
-</p>
+
 </div>
