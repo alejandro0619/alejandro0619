@@ -35,7 +35,7 @@ struct Me {
 }
 fn main(){
   let me =  Me::from(17, String::from("Venezuela"), String::from("Eat french fries and code"),
-  ["Typescript".to_string(), "Rust".to_string()]); 
+  [String::from("Typescript"), "Rust".to_string()]); 
   me.display()
  }
 ```
