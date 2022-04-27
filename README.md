@@ -84,12 +84,6 @@ fn main(){
 <p align="center"><img align="center" src="https://www.codewars.com/users/alejandro0619/badges/large"/>  </p>
 
 ----
-<h3 align="center"> 🐱‍🏍 Github streak </h3>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=alejandro0619&theme=default"/> </p> </br>
-  
-<h3 align="center"> ❤ My stats </h3>
-<p align="center"> 
-<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=alejandro0619&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandro0619&show_icons=true&locale=en&layout=compact&hide_border=true" />
-</p>
+<h3 align="center"> Github streak </h3>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=alejandro0619&theme=default"/> </p>
 </div>
