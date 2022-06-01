@@ -20,4 +20,4 @@ I love programming, math and when I'm not coding, or proving some theorem, you'l
 Wanna get in touch?
   
 Gmail: spaghetticodedev@gmail.com
-Telegram: spaghettirs
+Telegram: @spaghettirs
