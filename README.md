@@ -7,7 +7,7 @@
 <div>
  A mathematician who is not also something of a poet will never be a complete mathematician
   
-— Karl Weierstrass.
+— Karl Weierstrass
 </div>
   
 ---- 
