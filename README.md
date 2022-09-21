@@ -23,4 +23,4 @@ Both low and high level programming language enthusiast.
 Want to get in touch?
   
 Gmail: spaghetticodedev@gmail.com
-Telegram: [@spaghettispaghetto](https://t.me/spaghettirs).
+Telegram: [@spaghettispaghetto](https://t.me/spaghettispaghetto).
