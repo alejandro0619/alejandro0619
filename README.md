@@ -2,7 +2,7 @@
   <h1> Hey I'm Alejandro López.
     <img src="https://github.com/alejandro0619/alejandro0619/blob/main/ezgif.com-gif-maker.gif" width="28" 
   </h1>
-</div>
+</div>s
  
 <div>
  A mathematician who is not also something of a poet will never be a complete mathematician.
@@ -17,7 +17,7 @@ I'm an 18 years old undergraduate CS Engineering student and math apassionate, f
   
 I love programming, math and when I'm not coding, or proving some theorem, you'll catch me writing about what I love the most in my [blog](https://spaghettidev.tech).
 
-Both low and high level programming language enthusiast.
+Both low and high level programming languages enthusiast.
 
 
 Want to get in touch?
