@@ -24,3 +24,7 @@ Want to get in touch?
   
 Gmail: spaghetticodedev@gmail.com
 Telegram: [@spaghettirs](https://t.me/spaghettispaghetto).
+
+----
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=alejandro0619&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
