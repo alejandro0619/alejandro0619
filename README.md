@@ -20,7 +20,7 @@ I love programming, math and when I'm not coding, or proving some theorem, you'l
 Both low and high level programming languages enthusiast.
 
 
-Want to get in touch?
+I'm open to job offers. Want to get in touch?
   
 Gmail: spaghetticodedev@gmail.com
 Telegram: [@pasta](https://t.me/pastapastapasta123).
