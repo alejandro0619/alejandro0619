@@ -23,7 +23,7 @@ Both low and high level programming languages enthusiast.
 I'm open to job offers. Do you want to get in touch?
   
 Gmail: spaghetticodedev@gmail.com
-Telegram: [@pasta](https://t.me/SpaghettiSpaghetto).
+Telegram: [here](https://t.me/SpaghettiSpaghetto).
 
 ----
   
