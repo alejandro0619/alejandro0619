@@ -13,7 +13,7 @@
 ---- 
 ## About me
   
-I'm an 18 years old undergraduate Software Engineering student (with 4+ years of experience) and math passionate, from Venezuela.
+I'm an 19 years old undergraduate Software Engineering student (with 4+ years of experience) and math passionate, from Venezuela.
   
 I love programming, math and when I'm not coding, or proving some theorem, you'll catch me writing about what I love the most in my [blog](https://spaghettidev.netlify.app/).
 
